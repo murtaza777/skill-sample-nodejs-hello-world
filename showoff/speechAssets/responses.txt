@@ -1,0 +1,7 @@
+SayHello hello {HelloName}
+SayHello hi {HelloName}
+SayHello hello {HelloName}. How are you today?
+SayHello hi {HelloName}. How are you today?
+SayHello What's up {HelloName}?
+SayHello What's going on {HelloName}?
+SayHello Hey {HelloName}, how you doin?
